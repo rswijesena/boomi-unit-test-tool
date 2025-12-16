@@ -18,6 +18,7 @@
 
 <p align="center">
   <a href="#-features">Features</a> •
+  <a href="#-screenshots">Screenshots</a> •
   <a href="#-architecture">Architecture</a> •
   <a href="#-quick-start">Quick Start</a> •
   <a href="#-usage">Usage</a> •
@@ -38,6 +39,72 @@
   <img src="https://img.shields.io/badge/AI%20Agents-Testing-7c3aed?style=for-the-badge" alt="AI Agents">
   <img src="https://img.shields.io/badge/CI%2FCD-Automation-f59e0b?style=for-the-badge" alt="CI/CD">
 </p>
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Dashboard
+<p align="center">
+  <img src="docs/screenshots/home-dashboard.png" alt="Home Dashboard" width="800">
+</p>
+<p align="center"><em>Overview dashboard with features, architecture, quick start guide, and real-time status</em></p>
+
+---
+
+### 🌐 Web Services Testing
+<p align="center">
+  <img src="docs/screenshots/web-services.png" alt="Web Services Testing" width="800">
+</p>
+<p align="center"><em>Test REST APIs with multiple HTTP methods, authentication options, and JSON Path assertions</em></p>
+
+---
+
+### ⏱️ Scheduled Job Testing
+<p align="center">
+  <img src="docs/screenshots/scheduled-jobs.png" alt="Scheduled Job Testing" width="800">
+</p>
+<p align="center"><em>Execute Boomi processes with real-time status polling and log retrieval</em></p>
+
+---
+
+### 📨 Event Streams Testing
+<p align="center">
+  <img src="docs/screenshots/event-streams.png" alt="Event Streams Testing" width="800">
+</p>
+<p align="center"><em>Publish messages to Boomi Event Streams via REST API with single/multiple message formats</em></p>
+
+---
+
+### 🤖 AI Agent Testing
+<p align="center">
+  <img src="docs/screenshots/ai-agents.png" alt="AI Agent Testing" width="800">
+</p>
+<p align="center"><em>Test Boomi AI Agents via wrapper web services with multi-turn conversation support</em></p>
+
+---
+
+### 🚀 CI/CD Automation
+<p align="center">
+  <img src="docs/screenshots/cicd.png" alt="CI/CD Automation" width="800">
+</p>
+<p align="center"><em>Automate package creation, deployment, and pipeline orchestration</em></p>
+
+---
+
+### 📊 Test Results
+<p align="center">
+  <img src="docs/screenshots/test-results.png" alt="Test Results" width="800">
+</p>
+<p align="center"><em>Detailed test results with assertions, response data, and execution logs</em></p>
+
+---
+
+### 📋 Test Suite
+<p align="center">
+  <img src="docs/screenshots/test-suite.png" alt="Test Suite" width="800">
+</p>
+<p align="center"><em>Save and manage test collections with batch execution capabilities</em></p>
 
 ---
 
